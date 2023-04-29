@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "prefix": ".",
+  "owners": [
+    1080910114409697410
+  ],
+  "whitelistbool": false,
+  "activity": {
+    "type": "playing",
+    "text": "lol",
+    "isenabled": true
+  },
+  "discordlogging": false
+}
